@@ -1,0 +1,7 @@
+# Pastas de Material Bruto
+ExercíciosDSA/
+
+# Arquivos temporários e de sistema
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
